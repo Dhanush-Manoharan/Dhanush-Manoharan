@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanush-Manoharan
 - 👀 I’m interested in Machine Learning , Data analysis
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data Analysis,DevOps,AI Development
 - 💞️ I’m looking to collaborate on 
 - 📫 U can reach me here : manoharan.d@northeastern.edu
 - 😄 Pronouns: He/Him
